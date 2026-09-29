@@ -607,7 +607,7 @@ A dedicated **drill-through page** provides detailed record-level analysis.
 - Patient Satisfaction
 - Patient Risk
 
-![Patient Admission Detail](screenshots/05_Admission_Detail.png)
+![Admission Detail](screenshots/05_Admission_Detail.png)
 
 ---
 
