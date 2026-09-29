@@ -337,15 +337,15 @@ The ROC-AUC score of **0.81** indicates that the model provides useful separatio
 
 ### 1. Readmission Risk Model
 
-![Readmission Risk Model](outputs/01_readmission_risk_model.png)
+![Readmission Risk Model](outputs/01_readmission_roc_curve.png)
 
 ### 2. Billing Amount Outlier Distribution
 
-![Billing Amount Outlier Distribution](outputs/02_billing_amount_outlier_distribution.png)
+![Billing Amount Outlier Distribution](outputs/02_billing_outlier_distribution.png)
 
 ### 3. Department-wise Readmission Rate
 
-![Department-wise Readmission Rate](outputs/03_department_wise_readmission_rate.png)
+![Department-wise Readmission Rate](outputs/03_department_readmission_rate.png)
 
 ### 4. Patient Risk Distribution
 
@@ -353,7 +353,7 @@ The ROC-AUC score of **0.81** indicates that the model provides useful separatio
 
 ### 5. Correlation Matrix of Key Hospital Variables
 
-![Correlation Matrix of Key Hospital Variables](outputs/05_correlation_matrix_key_hospital_variables.png)
+![Correlation Matrix of Key Hospital Variables](outputs/05_correlation_matrix.png)
 
 > ⚠️ The model is intended for analytical and educational purposes only. It should not be used for clinical diagnosis, treatment, or real-world medical decision-making.
 
@@ -607,7 +607,7 @@ A dedicated **drill-through page** provides detailed record-level analysis.
 - Patient Satisfaction
 - Patient Risk
 
-![Patient Admission Detail](screenshots/05_Patient_Admission_Detail.png)
+![Patient Admission Detail](screenshots/05_Admission_Detail.png)
 
 ---
 
